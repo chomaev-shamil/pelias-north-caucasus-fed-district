@@ -1,6 +1,6 @@
-# Austrian area
+# North Caucasus Federal District
 
-This project is configured to download/prepare/build a complete Pelias installation for Austria.
+This project is configured to download/prepare/build a complete Pelias installation for North Caucasus Federal District.
 
 # Setup
 
